@@ -1,0 +1,6 @@
+[submodule "mast-compiler"]
+	path = mast-compiler
+	url = https://github.com/williamniemiec/mast-compiler.git
+[submodule "asc-compiler"]
+	path = asc-compiler
+	url = https://github.com/williamniemiec/asc-compiler.git
